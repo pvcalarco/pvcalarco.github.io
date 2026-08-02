@@ -5,7 +5,7 @@ SITEURL = "https://pvcalarco.github.io/"
 PATH = "content"
 
 TIMEZONE = 'America/Toronto'
-THEME = "/home/pvcalarco/pelican-themes/bootstrap2-dark"
+THEME = "/theme/bootstrap2-dark"
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
